@@ -1,12 +1,12 @@
-# Project Name App
+# International-Showtimes App
 
 Things you may want to cover:
 
 * Ruby version
-    ruby 2.6.6
+    ruby 3.0.1
 
 * Rails version
-    Rails 6.0.4
+    Rails 6.1.4.1
 
 
 * Gem install
